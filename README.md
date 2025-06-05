@@ -1,6 +1,8 @@
-After download use: go mod tidy for updates.
+After download use: "go mod tidy" for updates.
 
-build on Mac with: go build -o puzzle77
+Use Terminal to navegate to project folder, example: "cd Downlodas", "cd Puzzle-77".
+
+build on Mac with: "go build -o puzzle77"
 
 run with: ./puzzle77 -cores * 
 Change * for number of cores that you like to use!
