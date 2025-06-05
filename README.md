@@ -1,11 +1,11 @@
-After downloading, use go mod tidy for updates.
+After download use: go mod tidy for updates.
 
 build on Mac with: go build -o puzzle77
 
 run with: ./puzzle77 -cores * 
 Change * for number of cores that you like to use!
 
-Open file puzzle77.go
+Open file puzzle77.go with VsCode
 
 By default the program is set for bitcoin wallet #71
 
@@ -18,3 +18,5 @@ var (
 Change startHex, endHex and TargetAddress
 
 Use only to try to find Bitcoin Puzzle Wallets!
+
+Link of target wallets: https://privatekeys.pw/puzzles/bitcoin-puzzle-tx?status=unsolved
